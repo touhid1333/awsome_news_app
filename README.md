@@ -2,6 +2,9 @@
 
 Technical assignment
 
+## Screen Shot
+<img src="" width="540" height="1140">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
