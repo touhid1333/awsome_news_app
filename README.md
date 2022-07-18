@@ -3,7 +3,7 @@
 Technical assignment
 
 ## Screen Shot
-<img src="" width="540" height="1140">
+<img src="https://github.com/touhid1333/awsome_news_app/blob/master/assets/images/ss.png" width="540" height="1140">
 
 ## Getting Started
 
